@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou o Jose Leonilson Pinheiro de Souza (Leo)
+# 👋 Olá, eu sou o Leonilson de Souza (Leo)
 
-Sou **Professor de Informática e Web Design**, apaixonado por unir o lado técnico da programação com a criatividade do design. Atualmente focado em me especializar no **Front-End** e em criar artes em **Pixel Art**.
+Sou **Instrutor de Informática e Web Design**, apaixonado por unir o lado técnico da programação com a criatividade do design. Atualmente focado em me especializar no **Front-End** e em criar artes em **Pixel Art**.
 
 ---
 
@@ -23,7 +23,7 @@ Sou **Professor de Informática e Web Design**, apaixonado por unir o lado técn
 ### 🎨 Design e Ferramentas (Creative & Office)
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ai,figma,canva,apple,word,excel" />
+    <img src="https://skillicons.dev/icons?i=ps,ai,figma,canva,word,excel,powerpoint,gemini,gpt" />
   </a>
 </p>
 *Também domino: CorelDraw e Pacote Office completo.*
@@ -57,8 +57,4 @@ Sou **Professor de Informática e Web Design**, apaixonado por unir o lado técn
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrleorobot&theme=dark" alt="Sequência de Contribuições" />
-</p>
-
-<p align="center">
-  <i>"Transformando pixels em experiências e aprendizado em evolução."</i>
 </p>
