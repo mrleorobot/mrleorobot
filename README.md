@@ -9,21 +9,21 @@ Sou **Instrutor de Informática e Web Design**, apaixonado por unir o lado técn
 ### ✅ O que eu já domino
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,linux,windows,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,linux,windows,vscode,git,discord,linkedin" />
   </a>
 </p>
 
 ### 📚 O que estou aprendendo (Foco Total)
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,java,react" />
+    <img src="https://skillicons.dev/icons?i=js,java,react,php,python,kotlin,mysql" />
   </a>
 </p>
 
 ### 🎨 Design e Ferramentas (Creative & Office)
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ai,figma,canva,word,excel,powerpoint,gemini,gpt" />
+    <img src="https://skillicons.dev/icons?i=ps,ai,figma,canva,word,excel,powerpoint,gemini,gpt,reactactact" />
   </a>
 </p>
 *Também domino: CorelDraw e Pacote Office completo.*
