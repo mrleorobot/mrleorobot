@@ -1,26 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=LEONILSON%20SOUZA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Front-end%20%C2%B7%20UX%2FUI%20Design%20%C2%B7%20Power%20BI&descSize=20&descAlignY=60" />
+
+# 👨‍💻 LEONILSON SOUZA
+
+### Front-end · UX/UI Design · Power BI
+
+<a href="https://mrleorobot.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20PORTFÓLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" />
+</a>
+<a href="https://www.linkedin.com/in/leonilsonsouza" target="_blank">
+  <img src="https://img.shields.io/badge/🔗%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:leosouza5555@gmail.com">
+  <img src="https://img.shields.io/badge/📧%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
-
-<div align="center">
-  <a href="https://mrleorobot.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20PORTFÓLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" />
-  </a>
-  <a href="https://www.linkedin.com/in/leonilsonsouza" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:leosouza5555@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Desenvolvedor+Front-end+Sênior;UX%2FUI+Designer;Especialista+em+Power+BI;14+Projetos+Publicados" alt="Typing" />
-</div>
-
-<br>
 
 ---
 
@@ -38,15 +32,6 @@ const leonilson = {
   neurodivergencia: "Experiências otimizadas para TDAH",
 };
 ```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mrleorobot&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrleorobot&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-</div>
 
 ---
 
@@ -86,6 +71,21 @@ const leonilson = {
 
 ---
 
+## 📊 Estatísticas
+
+<div align="center">
+
+| Métrica | Valor |
+|:---|:---|
+| 📦 Repositórios Públicos | 22+ |
+| 🚀 Projetos Completos | 14 |
+| 🎨 Áreas de Atuação | Front-end, UX/UI, BI |
+| 🌎 Localização | Natal, RN — Brasil |
+
+</div>
+
+---
+
 ## 📫 Contato
 
 <div align="center">
@@ -94,10 +94,4 @@ const leonilson = {
 [![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-leonilsonsouza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonilsonsouza)
 [![GitHub](https://img.shields.io/badge/🔗%20GitHub-mrleorobot-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrleorobot)
 
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
