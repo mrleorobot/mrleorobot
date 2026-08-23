@@ -1,70 +1,78 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Leonilson+(Leo)!;Instrutor+de+Informática+%26+Web+Design;Desenvolvedor+Front-End;Entusiasta+de+Pixel+Art+%26+IA" alt="Typing Animation" />
-</div>
-
-## 👨‍💻 Sobre mim
-
-Direto de Natal/RN, sou movido pela paixão de unir a lógica fria da programação com a sensibilidade criativa do design. Meu objetivo é criar interfaces que não sejam apenas funcionais, mas que ofereçam uma experiência visual refinada e contem uma história.
-
-Além de estruturar códigos e treinar novos alunos, sou um grande consumidor de arte. Atualmente, divido meu foco entre o aperfeiçoamento no **Front-End**, a exploração da **Inteligência Artificial** e a criação de **Pixel Art** e **Animações**. Quando não estou no computador, provavelmente estou imerso em alguma boa narrativa ou planejando os capítulos dos livros que pretendo escrever. 
-
-Acredito que a tecnologia é a melhor ferramenta para dar vida à imaginação!
-
----
-
-## 🛠️ Meu Arsenal Técnico
-
-### ✅ O que eu já domino
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,linux,windows,vscode,git,discord,linkedin" />
-  </a>
-</p>
-
-### 📚 O que estou aprendendo (Foco Total)
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,java,react,php,python,kotlin,mysql" />
-  </a>
-</p>
-
-### 🎨 Design e Ferramentas (Creative & Office)
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ai,figma,canva,word,excel,powerpoint,gemini,gpt,reactactact" />
-  </a>
-</p>
-*Também possuo domínio do CorelDraw e de todo o Pacote Office.*
-
----
-
-## 🚀 O que estou construindo agora
-- 💻 **Portfólio Oficial:** Desenvolvendo minha vitrine digital com um design sofisticado.
-- 🎨 **Projetos Criativos:** Criando interfaces dinâmicas e explorando integrações com IA.
-- 📈 **Sempre evoluindo:** Mantendo uma rotina de commits constante e aprendendo novas tecnologias.
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrleorobot&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrleorobot&layout=compact&theme=dark&langs_count=7&hide_border=true" alt="Linguagens Mais Usadas" width="48%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=200&section=header&text=Leonilson%20Souza&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-end%20%C2%B7%20UX%2FUI%20Design%20%C2%B7%20Power%20BI&descSize=18&descAlignY=55" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrleorobot&theme=dark&hide_border=true" alt="Sequência de Contribuições" width="97%" />
+  <a href="https://mrleorobot.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfólio-Visitar-0d1117?style=for-the-badge&logoColor=white&labelColor=1a1a2e" />
+  </a>
+  <a href="https://www.linkedin.com/in/leonilsonsouza" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+## 👨‍💻 Sobre
+
+Desenvolvedor Front-end Sênior, UX/UI Designer e especialista em Power BI (DAX/M) baseado em **Natal/RN, Brasil**.
+
+Uno lógica de programação com sensibilidade criativa para construir interfaces que não apenas funcionam, mas contam histórias. Foco em acessibilidade, performance e design centrado no ser humano — incluindo experiências otimizadas para neurodivergentes (TDAH).
+
+- 🔭 Atualmente desenvolvendo **14 projetos** entre apps, landing pages e sistemas corporativos
+- 🌱 Aprofundando em **React, Next.js, IA Generativa e Motion Design**
+- 🎨 Criador de **Pixel Art** e experiências visuais interativas
+- 📊 Especialista em **Business Intelligence** com Power BI
+- ⚡ Disponível para freelas e oportunidades
+
+---
+
+## 🛠️ Stack Principal
+
+<div align="center">
+
+| Front-end | Design | BI & Dados | Ferramentas |
+|:---|:---|:---|:---|
+| HTML5 · CSS3 · JavaScript | Figma · Photoshop · Illustrator | Power BI · DAX · M | Git · VS Code · Vite |
+| React · Next.js · TypeScript | UI/UX · Acessibilidade · Motion | MySQL · Firebase | Node.js · Vercel |
+
 </div>
 
 ---
 
-## 🤝 Vamos nos conectar!
+## 🚀 Projetos em Destaque
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/leonilsonsouza/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:leosouza5555@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</p>
+| Projeto | Descrição | Tech |
+|:---|:---|:---|
+| [**Portfólio**](https://mrleorobot.github.io) | Site pessoal com Motion Design, PWA e 14 cases | Next.js, CSS, JS |
+| [**Refúgio Sereno**](https://github.com/mrleorobot/find) | App gamificado para produtividade (TDAH) | React, Firebase, Gemini |
+| [**DashBoard de Inventário**](https://github.com/mrleorobot/Dashboard_De_Inventario) | Painel de gestão de estoque com analytics | Next.js, TypeScript |
+| [**MEMOIRE**](https://github.com/mrleorobot/MEMOIRE) | Site de perfumaria autoral com design sensorial | JavaScript, CSS |
+| [**TECHZ**](https://github.com/mrleorobot/TECHZ) | Plataforma tech com foco em comunidade | React, Vite |
+
+> 📂 Veja todos os projetos no meu [portfólio completo](https://mrleorobot.github.io/#projetos)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mrleorobot&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrleorobot&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" />
+</div>
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+[![Portfólio](https://img.shields.io/badge/🔗%20Portfólio-mrleorobot.github.io-0d1117?style=flat-square&logo=githubpages)](https://mrleorobot.github.io)
+[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-leonilsonsouza-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/leonilsonsouza)
+[![GitHub](https://img.shields.io/badge/🔗%20GitHub-mrleorobot-181717?style=flat-square&logo=github)](https://github.com/mrleorobot)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=100&section=footer" />
+</div>
