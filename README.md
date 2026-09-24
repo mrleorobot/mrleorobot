@@ -1,97 +1,33 @@
-<div align="center">
+# Leonilson Souza
 
-# 👨‍💻 LEONILSON SOUZA
+**Front-end · UX/UI Design · Power BI**
 
-### Front-end · UX/UI Design · Power BI
+Sou instrutor de Informática e Web Design, em Natal/RN. Reúno aqui projetos de interfaces, aplicações web e materiais de estudo. Meu foco está na experiência visual, nas interações e na clareza de cada projeto.
 
-<a href="https://mrleorobot.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/🌐%20PORTFÓLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" />
-</a>
-<a href="https://www.linkedin.com/in/leonilsonsouza" target="_blank">
-  <img src="https://img.shields.io/badge/🔗%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:leosouza5555@gmail.com">
-  <img src="https://img.shields.io/badge/📧%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[Portfólio](https://mrleorobot.github.io/) · [LinkedIn](https://www.linkedin.com/in/leonilsonsouza) · [E-mail](mailto:leosouza5555@gmail.com)
 
-</div>
+## Projetos selecionados
 
----
+| Projeto | O que você encontra | Código |
+| --- | --- | --- |
+| [Portfólio](https://mrleorobot.github.io/) | Design de interfaces, projetos e experiências visuais. | [mrleorobot.github.io](https://github.com/mrleorobot/mrleorobot.github.io) |
+| [Dashboard de Inventário](https://dashboard-de-inventario.vercel.app) | Painel de estoque com filtros, gráficos e exportação de relatórios. | [Dashboard_De_Inventario](https://github.com/mrleorobot/Dashboard_De_Inventario) |
+| [LedgerIQ](https://find-seven-psi.vercel.app) | Extração de dados de documentos com Gemini, histórico local e exportação CSV. | [find](https://github.com/mrleorobot/find) |
+| [MÉMOIRE](https://memoire-nine-psi.vercel.app) | Vitrine de perfumaria com catálogo, páginas de produto e sacola. | [MEMOIRE](https://github.com/mrleorobot/MEMOIRE) |
 
-## 🎯 Sobre Mim
+## Estudos e trajetória
 
-```typescript
-const leonilson = {
-  nome: "Leonilson Souza",
-  local: "Natal, RN — Brasil 🇧🇷",
-  funcao: "Desenvolvedor Front-end Sênior",
-  especialidades: ["UX/UI Design", "Power BI (DAX/M)", "Motion Design"],
-  foco: "Interfaces que funcionam e contam histórias",
-  projetos: 14,
-  disponibilidade: "Freelas & Oportunidades",
-  neurodivergencia: "Experiências otimizadas para TDAH",
-};
-```
+| Repositório | Conteúdo |
+| --- | --- |
+| [Exercícios Portugol](https://github.com/mrleorobot/Exercicios-Portugol) | Exercícios de lógica de programação no Portugol Studio. |
+| [Aulas de 2024](https://github.com/mrleorobot/Aulas-Antigas-2024) | Materiais de Informática, Office e design gráfico. |
+| [TECHZ](https://github.com/mrleorobot/TECHZ) | Projeto em grupo de um site sobre tecnologia, feito com HTML e CSS. |
 
----
+## Ferramentas e interesses
 
-## 🛠️ Tech Stack
+- **Interfaces:** HTML, CSS, JavaScript, TypeScript, React, Next.js e Tailwind CSS.
+- **Design:** UX/UI, Figma, Photoshop, Illustrator e motion design.
+- **Dados e aprendizado:** Power BI, programação e inteligência artificial.
+- **Desenvolvimento:** Git, GitHub, Vite e Vercel.
 
-<div align="center">
-
-### Front-end
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
-
-### Design & Dados
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,mysql,firebase&theme=dark" />
-
-### Ferramentas
-<img src="https://skillicons.dev/icons?i=git,vscode,vite,vercel,github,nodejs,python&theme=dark" />
-
-</div>
-
----
-
-## 🚀 Projetos em Destaque
-
-<div align="center">
-
-| 🎨 Design | 💻 Dev | 📊 Dados |
-|:---|:---|:---|
-| [**Portfólio**](https://mrleorobot.github.io) | [**LedgerIQ**](https://github.com/mrleorobot/find) | [**DashBoard Inventário**](https://github.com/mrleorobot/Dashboard_De_Inventario) |
-| Motion Design + PWA | Auditoria Fiscal com IA | Gestão de Estoque |
-| [**Refúgio Sereno**](https://github.com/mrleorobot/REFUGIOSERENO) | [**MEMORY.EXE**](https://github.com/mrleorobot/memory-archive-project) | [**MÉMOIRE**](https://github.com/mrleorobot/MEMOIRE) |
-| Produtividade TDAH | Narrativa Interativa | Perfumaria Sensorial |
-| [**Komorebi**](https://github.com/mrleorobot/komorebi) | [**Nocturne Studio**](https://github.com/mrleorobot/cozy-night-studio-landing) | [**Dsol AI**](https://github.com/mrleorobot/DSOL.AI) |
-| Café Artesanal | Animação Indie | Tutor Educacional |
-
-</div>
-
-> 📂 **Ver todos os projetos:** [mrleorobot.github.io](https://mrleorobot.github.io)
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-
-| Métrica | Valor |
-|:---|:---|
-| 📦 Repositórios Públicos | 22+ |
-| 🚀 Projetos Completos | 14 |
-| 🎨 Áreas de Atuação | Front-end, UX/UI, BI |
-| 🌎 Localização | Natal, RN — Brasil |
-
-</div>
-
----
-
-## 📫 Contato
-
-<div align="center">
-
-[![Portfólio](https://img.shields.io/badge/🌐%20Portfólio-mrleorobot.github.io-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://mrleorobot.github.io)
-[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-leonilsonsouza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonilsonsouza)
-[![GitHub](https://img.shields.io/badge/🔗%20GitHub-mrleorobot-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrleorobot)
-
-</div>
+Mais projetos e formas de contato no [meu portfólio](https://mrleorobot.github.io/).
