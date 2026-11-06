@@ -1,7 +1,7 @@
 <!-- Perfil de Leonilson Souza — mesmo visual do portfólio: preto e branco, Space Grotesk, estrelas.
      As artes ficam em /assets e trocam sozinhas entre tema escuro e claro do GitHub. -->
 
-<a href="https://mrleorobot.github.io/mrleorobotPOAntigo/">
+<a href="https://leodsol.vercel.app/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
@@ -134,7 +134,7 @@ Tem um projeto, uma vaga ou uma ideia? Respondo rápido.
 
 <a href="mailto:leodsouza.lds@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-email-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/btn-email-light.svg"><img alt="E-mail: leodsouza.lds@gmail.com" src="./assets/btn-email-dark.svg" height="52"></picture></a>&nbsp;
 <a href="https://www.linkedin.com/in/leonilsonsouza/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-linkedin-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/btn-linkedin-light.svg"><img alt="LinkedIn" src="./assets/btn-linkedin-dark.svg" height="52"></picture></a>&nbsp;
-<a href="https://mrleorobot.github.io/mrleorobotPOAntigo/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-portfolio-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/btn-portfolio-light.svg"><img alt="Portfólio" src="./assets/btn-portfolio-dark.svg" height="52"></picture></a>
+<a href="https://leodsol.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-portfolio-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/btn-portfolio-light.svg"><img alt="Portfólio" src="./assets/btn-portfolio-dark.svg" height="52"></picture></a>
 
 <br>
 
